@@ -2,8 +2,6 @@
 
 ## Clone Repository
 ```
-npm install
-```
 git clone https://github.com/johnroworld/nodejs-simple-backend.git
 ```
 
