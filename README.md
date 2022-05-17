@@ -20,7 +20,6 @@ npm run start
 ```
 Note: This will listen to port 3000
 
-For testing: There are 2 ways to test the API:
 
 For reference, you can import .postman_collection.json file located in the same path of the application's executable.
 
