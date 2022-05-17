@@ -11,10 +11,6 @@ Go to root directory of the project and run:
 ```
 npm install
 ```
-Also run:
-```
-npm install --save-dev nodemon
-```
 
 ## Run API REST
 
