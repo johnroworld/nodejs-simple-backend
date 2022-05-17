@@ -57,7 +57,8 @@ Note: Must go to > path/to/directory/nodejs-simple-backend/posts/main.js
 
 ## Future Improvements
 
-Since NodeJs and ExpressJs is quite new to me, deep dive and study the following: Node JS modules, middleware, HTTP Requests.
+1. Since NodeJs and ExpressJs is quite new to me, deep dive and study the following: Node JS modules, middleware, HTTP Requests.
+2. Still need to practice NodeJs logging. I found interesting logging such as Winston Logger.
 
 ## Added libraries:
 1. ExpressJs
