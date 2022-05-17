@@ -25,6 +25,7 @@ node main.js
 Note: This will listen to port 3000
 
 For testing: There are 2 ways to test the API:
+
 1.) Postman (for reference, you can import .postman_collection.json located in the same directory)
 Sample endoint: 
 ```
