@@ -36,14 +36,13 @@ post data: fn:getVersion
 2.) Run post scripts under "posts" folder
 
 Sample command:
-path/to/directory/nodejs-simple-backend/posts/main.js
 ```
 1.) node get-version
 2.) node get-unix-timestamp
 3.) node os-timezone
 4.) node change-os-timezone
 ```
-
+Note: Must go to > path/to/directory/nodejs-simple-backend/posts/main.js
 
 ## Done tasks
 
