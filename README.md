@@ -64,7 +64,3 @@ Since NodeJs and ExpressJs is quite new to me, deep dive and study the following
 2. Body parser
 3. Cors
 4. Request
-
-Note:
--Silverstripe requires php unit with a version which is no longer supported on PHP 8.
--If CHMOD error occured, just remove the htaccess file mentioned on trace and reinstall composer.
