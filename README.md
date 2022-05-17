@@ -46,10 +46,10 @@ Note: Must go to > path/to/directory/nodejs-simple-backend/posts/main.js
 
 ## Done tasks
 
-1.) Creating API Endpoint for getting version
-2.) Creating API Endpoint for getting unix timestampo
-3.) Creating API Endpoint for getting OS timezone
-4.) Creating API Endpoint for chaning OS timezone
+1.) Creating API Endpoint for getting version.
+2.) Creating API Endpoint for getting unix timestampo.
+3.) Creating API Endpoint for getting OS timezone.
+4.) Creating API Endpoint for chaning OS timezone.
 
 ## Future Improvements
 
