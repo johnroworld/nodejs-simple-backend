@@ -16,7 +16,7 @@ npm install
 
 Run node application:
 ```
-node main.js
+node run start
 ```
 Note: This will listen to port 3000
 
