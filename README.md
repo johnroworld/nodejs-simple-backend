@@ -22,23 +22,39 @@ Note: This will listen to port 3000
 
 For testing: There are 2 ways to test the API:
 
-1.) Postman (for reference, you can import .postman_collection.json file located in the same path of the application's executable).
+For reference, you can import .postman_collection.json file located in the same path of the application's executable.
 
-Sample endoint: 
+API Endpoint: 
 ```
 http://localhost:3000/api
-post data: fn:getVersion
-```
-2.) Run post scripts under "posts" folder
 
-Sample command:
+POST DATA:
+1.) Get Version
+{
+    "fn": "changeOsTimezone",
+    "params": {
+        "timezone": "Europe/London"
+    }
+}
+
+2.) Get UNIX Timestamp
+{
+    "fn": "getUnixTimestamp"
+}
+
+3.) Get OS Timezone
+{
+    "fn": "getOsTimezone"
+}
+
+4.) Change OS Timezone
+{
+    "fn": "changeOsTimezone",
+    "params": {
+        "timezone": "Asia/Manila"
+    }
+}
 ```
-1.) node get-version
-2.) node get-unix-timestamp
-3.) node os-timezone
-4.) node change-os-timezone
-```
-Note: Must go to > path/to/directory/nodejs-simple-backend/posts/main.js
 
 ## Done tasks
 
