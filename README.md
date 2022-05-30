@@ -66,11 +66,6 @@ POST DATA:
 4.) Creating API Endpoint for chaning OS timezone.
 
 
-## Future Improvements
-
-1. Since NodeJs and ExpressJs is quite new to me, deep dive and study the following: Node JS modules, middleware, HTTP Requests.
-2. Still need to practice NodeJs logging. I find interesting logging such as Winston Logger.
-
 ## Added libraries:
 1. ExpressJs
 2. Body parser
