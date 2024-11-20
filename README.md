@@ -30,7 +30,7 @@ http://localhost:3000/api
 GET DATA:
 1.) Get Version
 {
-    "fn": "changeOsTimezone",
+    "fn": "getVersion",
     "params": {
         "timezone": "Europe/London"
     }
