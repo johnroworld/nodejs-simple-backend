@@ -27,7 +27,7 @@ API Endpoint:
 ```
 http://localhost:3000/api
 
-POST DATA:
+GET DATA:
 1.) Get Version
 {
     "fn": "changeOsTimezone",
