@@ -27,7 +27,9 @@ API Endpoint:
 ```
 http://localhost:3000/api
 
-GET DATA:
+POST DATA:
+
+Note: use JSON in POST BODY
 1.) Get Version
 {
     "fn": "getVersion",
