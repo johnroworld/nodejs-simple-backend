@@ -32,10 +32,7 @@ POST DATA:
 Note: use JSON in POST BODY
 1.) Get Version
 {
-    "fn": "getVersion",
-    "params": {
-        "timezone": "Europe/London"
-    }
+    "fn": "getVersion"
 }
 
 2.) Get UNIX Timestamp
